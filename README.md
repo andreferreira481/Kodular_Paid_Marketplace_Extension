@@ -1,4 +1,4 @@
-# Kodular Paid Marketplace Extension :🇧:🇷🇧🇷🇧🇷
+# Kodular Paid Marketplace Extension :smile:
 
 Payment extension using unhosted paid marketplace API
 To access the api documentation visit this site
