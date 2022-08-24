@@ -1,19 +1,20 @@
-# Kodular Paid Marketplace Extension
+# Kodular Paid Marketplace Extension 
 
-Extensão de pagamento usando API de mercado pago sem hospedagem
-Para acessar a documentação da api acesse este site
+Payment extension using unhosted paid marketplace API
+To access the api documentation visit this site
 https://www.mercadopago.com.br/developers/pt/reference
 
-Baixe o arquivo aia para ver como funciona cada função
+Download the aia file to see how each function works
 
-# Essa é minha primeira extensão espero que gostem aceito doações para que possa estar me ajudando nos meus estudos
+# This is my first extension hope you like it I accept donations so it can be helping me in my studies
 
-# Se eu te ajudei então doe :index_pointing_at_the_viewer: ou entre em contato comigo para fazer uma doação
+# If I helped you then donate or contact me to make a donation
 
 https://www.paypal.com/paypalme/andreferreira481
 
-Se você gostou desta extensão dê um like!
+If you liked this extension give it a like!
 
-# Qualquer dúvida responderei o mais rápido possível
+# Any questions I will answer as soon as possible
 
-Esta é uma extensão que fiz para ajudar a comunidade a crescer ela pode ser usada em vários tipos de aplicações
+This is an extension I made to help the community grow it can be used in many types of applications
+<a href='https://emojitool.com/pt/flag-for-brazil'>🇧🇷</a>
