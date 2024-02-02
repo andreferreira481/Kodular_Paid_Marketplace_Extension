@@ -15,5 +15,9 @@ Pix Brasil mobile key => 38991121759
 
 If you liked this extension give it a like!
 
+Update and contribution
+
+01-02-2024 - Update made to the extension after donation from Rodrigo from Roanthi Technology
+
 # Any questions I will answer as soon as possible
 
