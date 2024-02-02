@@ -6,10 +6,7 @@ To access the api documentation visit this site
 
 
 Download the aia file to see how each function works
-
-# This is my first extension hope you like it I accept donations so it can be helping me in my studies
-
-# If I helped you then donate or contact me to make a donation :dollar:
+#Make donations to cover the development time and bring updates so I will have an incentive to improve the extension
 
 <a href='https://www.paypal.com/paypalme/andreferreira481'>Donate via PayPal</a>
 
