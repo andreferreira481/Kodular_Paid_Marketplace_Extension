@@ -6,6 +6,7 @@ To access the api documentation visit this site
 
 
 Download the aia file to see how each function works
+
 #Make donations to cover the development time and bring updates so I will have an incentive to improve the extension
 
 <a href='https://www.paypal.com/paypalme/andreferreira481'>Donate via PayPal</a>
