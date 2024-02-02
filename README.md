@@ -10,14 +10,13 @@ Download the aia file to see how each function works
 #Make donations to cover the development time and update so I will have an incentive to improve the extension
 
 <a href='https://www.paypal.com/paypalme/andreferreira481'>Donate via PayPal</a>
-
 Pix Brasil mobile key => 38991121759
-
 If you liked this extension give it a like!
 
-Update and contribution
+# Update and Contribution
 
 01-02-2024 - Update made to the extension after donation from Rodrigo from Roanthi Technology
+
 
 # Any questions I will answer as soon as possible
 
