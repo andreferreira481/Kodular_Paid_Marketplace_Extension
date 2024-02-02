@@ -19,5 +19,3 @@ If you liked this extension give it a like!
 
 # Any questions I will answer as soon as possible
 
-This is an extension I made to help the community grow it can be used in many types of applications
-
